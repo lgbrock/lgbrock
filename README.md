@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **logan.g.brock@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1D9PmapfVqjka82G1wxIYTeGrLKkY75Hw](https://drive.google.com/drive/folders/1D9PmapfVqjka82G1wxIYTeGrLKkY75Hw)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nfW-quL1G0cVkzFJT3dU-HSNDstl3qlY/view?usp=sharing](https://drive.google.com/file/d/1nfW-quL1G0cVkzFJT3dU-HSNDstl3qlY/view?usp=sharing)
 
 - ⚡ Fun fact **I have a dog named Turkey!**
 
