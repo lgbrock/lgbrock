@@ -21,7 +21,7 @@
 - 📫 How to reach me logan.g.brock@gmail.com  
   
 
-- 📄 Know about my experiences Logan Brock Resume  
+- 📄 Know about my experiences [Logan Brock Resume] (https://drive.google.com/file/d/1nfW-quL1G0cVkzFJT3dU-HSNDstl3qlY/view?usp=sharing)
   
 
 - ⚡ Fun fact: I have a dog named Turkey!  
