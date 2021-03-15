@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **node.js and a little bit of everything else on the side**
 
-- 👨‍💻 All of my projects are available at [https://logan-brock-portfolio.netlify.app/](https://logan-brock-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://logangbrock.com/)
 
 - 📝 I regularly write articles on [https://dev.to/lgbrock](https://dev.to/lgbrock)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **logan.g.brock@gmail.com**
 
-- 📄 Know about my experiences [Logan Brock Resume](https://drive.google.com/file/d/1nfW-quL1G0cVkzFJT3dU-HSNDstl3qlY/view?usp=sharing)
+- 📄 Know about my experiences [Logan Brock Resume](https://docs.google.com/document/d/1JStFRFbtGhut7eb369d8tZm0xGUdCfU3Qs6vGDmam0E/edit?usp=sharing)
 
 - ⚡ Fun fact **I have a dog named Turkey!**
 
