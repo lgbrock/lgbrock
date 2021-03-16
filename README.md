@@ -69,7 +69,7 @@
         <p><a href="https://lgbrock.github.io/search_app_tutorial/index.html" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://lgbrock.github.io/search_app_tutorial/index.html" rel="nofollow">
-            <img src="https://imgflip.com/gif/51ytj2" width="100%" alt="searchMe" data-canonical-src="https://imgflip.com/gif/51ytj2" style="max-width:100%;">
+            <img src="https://media.giphy.com/media/RlFBMAzy5xGFXfVSAA/source.gif" width="100%" alt="searchMe" data-canonical-src="https://media.giphy.com/media/RlFBMAzy5xGFXfVSAA/source.gif" style="max-width:100%;">
         </a>
         <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, &amp; Wikipedia API </strong> - SearchMe - A web app that lets you search wikipedia.</p>
     </td>
@@ -79,7 +79,7 @@
         <p> <a href="https://logangbrock.com/#home" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://logangbrock.com/#home" rel="nofollow">
-            <img src="https://imgflip.com/gif/51yu7b" width="100%" alt="Portfolio" data-canonical-src="https://imgflip.com/gif/51yu7b" style="max-width:100%;">
+            <img src="https://media.giphy.com/media/ejgSTs3oAJ667S1J3u/source.gif" width="100%" alt="Portfolio" data-canonical-src="https://media.giphy.com/media/ejgSTs3oAJ667S1J3u/source.gif" style="max-width:100%;">
         </a>
         <p><strong>HTML5, CSS3, Bootstrap, Javascript</strong> - Portfolio Site to keep you in the loop on projects and contact info.</p>
     </td>
