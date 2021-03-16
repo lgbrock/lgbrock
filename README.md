@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/lifeisagarden23" target="blank"><img src="https://img.shields.io/twitter/follow/lifeisagarden23?logo=twitter&style=for-the-badge" alt="lifeisagarden23" /></a> </p>
 
-- 🔭 I’m currently working on **100 Hours Project**
+- 🔭 I’m currently working on my **100 Hours Project**
 
 - 🌱 I’m currently learning **node.js and a little bit of everything else on the side**
 
