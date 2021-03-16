@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logan Brock</h1>
-<h3 align="center">A passionate Software Engineer with a focus in full-stack development from the greater Philadelphia area</h3>
+<h3 align="center">A passionate Software Engineer with a focus in full-stack web development from the greater Philadelphia area</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lgbrock" alt="lgbrock" /></a> </p>
 
