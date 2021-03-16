@@ -62,7 +62,8 @@
 
 <br/>
 
-### My Projects 
+## My Projects
+<table><tr><td valign="top" width="100%">
 <article>
       <div>
   <div>
