@@ -79,7 +79,7 @@
         <p> <a href="https://logangbrock.com/#home" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://logangbrock.com/#home" rel="nofollow">
-            <img src="https://media.giphy.com/media/ejgSTs3oAJ667S1J3u/source.gif" width="100%" alt="Portfolio" data-canonical-src="https://media.giphy.com/media/ejgSTs3oAJ667S1J3u/source.gif" style="max-width:100%;">
+            <img src="https://media.giphy.com/media/ejgSTs3oAJ667S1J3u/giphy.gif" width="100%" alt="Portfolio" data-canonical-src="https://media.giphy.com/media/ejgSTs3oAJ667S1J3u/giphy.gif" style="max-width:100%;">
         </a>
         <p><strong>HTML5, CSS3, Bootstrap, Javascript</strong> - Portfolio Site to keep you in the loop on projects and contact info.</p>
     </td>
