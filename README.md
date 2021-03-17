@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://twitter.com/lifeisagarden23" target="blank"><img src="https://img.shields.io/twitter/follow/lifeisagarden23?logo=twitter&style=for-the-badge" alt="lifeisagarden23" /></a> </p>
 
-## My Skill Set  
+## 💻 My Skill Set  
 <table><tr><td valign="top" width="33%">
  
 ### Frontend  
@@ -57,7 +57,7 @@
 </div>
 </td></tr></table> 
 
-## My Projects
+## 👨‍💻 My Projects
 <article>
       <div>
   <div>
@@ -89,7 +89,7 @@
       </div>
   </div>
 
-## Connect with me  
+## 📲 Connect with me  
 
 <div align="center">
 <a href="https://twitter.com/lifeisagarden23" target="_blank">
@@ -104,13 +104,13 @@
 </div>  
 <br/>
 
-## Github Stats  
+## 📈 Github Stats  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lgbrock&show_icons=true&locale=en" align="center" width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lgbrock" align="center" width="40%"/>
 </div> 
 
-## My Jam Sesh 
+## 🎧 My Jam Sesh 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=loganbrock12&cover_image=true&theme=default" /></div>  
 
