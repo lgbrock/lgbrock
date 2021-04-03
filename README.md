@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything related to full-stack web development or trending TV shows 📺**
 
-- 📫 How to reach me **logan.g.brock@gmail.com**
+- 📫 How to reach me **logan@logangbrock.com**
 
 - 📄 Know about my experiences [Logan Brock Resume](https://docs.google.com/document/d/1JStFRFbtGhut7eb369d8tZm0xGUdCfU3Qs6vGDmam0E/edit?usp=sharing)
 
