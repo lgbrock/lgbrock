@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **100 Hours Project**
 
-- 🌱 I’m currently learning **node.js and a little bit of everything else on the side**
+- 🌱 I’m currently learning **MERN Stack and a little bit of everything else on the side**
 
 - 👨‍💻 All of my projects are available on [My Portfolio](https://logangbrock.com/)
 
