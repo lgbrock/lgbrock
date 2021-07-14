@@ -115,7 +115,7 @@
 
 ## 📈 Github Stats  
 
-<div align="center">
+<div align="center" width="100%">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgbrock&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="lgbrock" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lgbrock&show_icons=true&theme=gruvbox&locale=en" alt="lgbrock" /></p>
