@@ -115,9 +115,11 @@
 
 ## 📈 Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lgbrock&show_icons=true&locale=en" align="center" width="40%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lgbrock" align="center" width="40%"/>
-</div> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgbrock&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="lgbrock" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lgbrock&show_icons=true&theme=gruvbox&locale=en" alt="lgbrock" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lgbrock&" alt="lgbrock" /></p>
 
 ## 🎧 My Jam Sesh 
 
