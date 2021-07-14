@@ -115,9 +115,11 @@
 
 ## 📈 Github Stats  
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgbrock&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="lgbrock" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lgbrock&show_icons=true&theme=gruvbox&locale=en" alt="lgbrock" /></p>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lgbrock&" alt="lgbrock" /></p>
  
