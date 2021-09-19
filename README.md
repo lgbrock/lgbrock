@@ -5,13 +5,14 @@
 
 - 🌱 I’m currently learning **MERN Stack and a little bit of everything else on the side**
 
-- 👨‍💻 All of my projects are available on [My Portfolio](https://logangbrock.com/)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://logangbrock.me/)
 
 - 📝 I regularly write articles on [https://dev.to/lgbrock](https://dev.to/lgbrock)
 
 - 💬 Ask me about **anything related to full-stack web development or trending TV shows 📺**
 
-- 📫 How to reach me **logan@logangbrock.com**
+- 📫 How to reach me **logan.g.brock@gmail.com**
+- 📫 OR **logan@logangbrock.me**
 
 - 📄 Know about my experiences [Logan Brock Resume](https://docs.google.com/document/d/1JStFRFbtGhut7eb369d8tZm0xGUdCfU3Qs6vGDmam0E/edit?usp=sharing)
 
