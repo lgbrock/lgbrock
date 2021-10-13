@@ -64,7 +64,32 @@
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="50"/> </a>
 <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="50"/> </a>                                                                                                                                      
 </div>
-</td></tr></table> 
+</td></tr></table>
+
+## 📲 Connect with me  
+
+<div align="center">
+<a href="https://twitter.com/lifeisagarden23" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter />
+</a>
+<a href="https://github.com/lgbrock" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+</a>
+<a href="https://linkedin.com/in/loganbrock" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
+</a>  
+</div>  
+<br/>
+
+## 📈 Github Stats  
+
+<div align="center">
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgbrock&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="lgbrock" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lgbrock&show_icons=true&theme=gruvbox&locale=en" alt="lgbrock" /></p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lgbrock&" alt="lgbrock" /></p>
+</div>
 
 ## 👨‍💻 My Projects
 <article>
@@ -97,32 +122,6 @@
 </article>
       </div>
   </div>
-
-## 📲 Connect with me  
-
-<div align="center">
-<a href="https://twitter.com/lifeisagarden23" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter />
-</a>
-<a href="https://github.com/lgbrock" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
-</a>
-<a href="https://linkedin.com/in/loganbrock" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
-</a>  
-</div>  
-<br/>
-
-## 📈 Github Stats  
-
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgbrock&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="lgbrock" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lgbrock&show_icons=true&theme=gruvbox&locale=en" alt="lgbrock" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lgbrock&" alt="lgbrock" /></p>
-</div>
  
 ## 🎧 My Jam Sesh 
 
